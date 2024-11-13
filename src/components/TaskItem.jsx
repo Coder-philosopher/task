@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useTodo } from '../contexts/managercontext';
+import { useTodo } from '../contexts/ManagerContext';
 
 function TaskItem({ todo }) {
     const { updateTodo, deleteTodo } = useTodo();
