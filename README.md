@@ -34,7 +34,7 @@ A responsive and interactive Task Manager application built with React and Tailw
 
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/task-manager-app.git
+   git clone https://github.com/Coder-philosopher/task.git
    
 2. Navigate into the project directory:
    bash
